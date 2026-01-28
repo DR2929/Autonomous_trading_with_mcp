@@ -6,6 +6,8 @@ A multi-agent AI trading platform that enables autonomous trading agents to make
 
 This system implements a sophisticated trading simulation where multiple AI agents with distinct personas and strategies autonomously research opportunities, analyze market conditions, and execute trades. The platform features a modular architecture using MCP for service communication, real-time market data integration, and a web-based dashboard for monitoring trader performance.
 
+![Trader performance dashboard](assets/image.png)
+![Trader performance dashboard](assets/image2.png)
 ## Features
 
 - 🤖 **Multi-Agent System**: Multiple autonomous trading agents with unique personas (Warren Patience, George Bold, Ray Systematic, Cathie Crypto)
